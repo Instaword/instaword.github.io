@@ -1,0 +1,37 @@
+
+{
+  "words": [
+    {
+      "id": "Wfs1",
+      "label": "Problem",
+      "spell": "po rob lem",
+      "define": "Van de",
+      "exact_matches": 10,
+      "saved_count": 99
+    },
+    {
+      "id": "Wfs2",
+      "label": "Problem",
+      "spell": "po rob lem",
+      "define": "Van de",
+      "exact_matches": 10,
+      "saved_count": 99
+    },
+    {
+      "id": "Wfs3",
+      "label": "Problem",
+      "spell": "po rob lem",
+      "define": "Van de",
+      "exact_matches": 10,
+      "saved_count": 99
+    },
+    {
+      "id": "Wfs4",
+      "label": "Problem",
+      "spell": "po rob lem",
+      "define": "Van de",
+      "exact_matches": 10,
+      "saved_count": 99
+    }
+  ]
+}

@@ -33,5 +33,9 @@
       "exact_matches": 10,
       "saved_count": 99
     }
-  ]
+  ],
+  "urls": {
+    "more_words": "https://instaword.github.io/words.json"
+  },
+  "counts": 100
 }

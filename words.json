@@ -37,5 +37,7 @@
   "urls": {
     "more_words": "https://instaword.github.io/words.json"
   },
-  "counts": 100
+  "stats": {
+    "counts": 100
+  }
 }

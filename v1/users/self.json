@@ -1,0 +1,299 @@
+{
+  "id": 456535557,
+  "name": "Hoi Pham",
+  "social": true,
+  "facebook_connected": true,
+  "ksr_live_token": "a62304e6243f59a815bf6e849d68567848d6e3835a52e5cc319b56cf03ba401c",
+  "weekly_newsletter": false,
+  "happening_newsletter": false,
+  "promo_newsletter": false,
+  "games_newsletter": false,
+  "invent_newsletter": false,
+  "arts_culture_newsletter": false,
+  "send_newsletters": false,
+  "category_wheel": [
+    {
+      "backed_projects_count": 0,
+      "color": "0xFFBDAB",
+      "category": {
+        "id": 1,
+        "name": "Art",
+        "slug": "art",
+        "position": 1,
+        "color": 16760235,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/art"
+          }
+        }
+      }
+    },
+    {
+      "backed_projects_count": 0,
+      "color": "0xFFFB78",
+      "category": {
+        "id": 3,
+        "name": "Comics",
+        "slug": "comics",
+        "position": 2,
+        "color": 16776056,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/comics"
+          }
+        }
+      }
+    },
+    {
+      "backed_projects_count": 0,
+      "color": "0xFF81AC",
+      "category": {
+        "id": 26,
+        "name": "Crafts",
+        "slug": "crafts",
+        "position": 3,
+        "color": 16744876,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/crafts"
+          }
+        }
+      }
+    },
+    {
+      "backed_projects_count": 0,
+      "color": "0xA695F9",
+      "category": {
+        "id": 6,
+        "name": "Dance",
+        "slug": "dance",
+        "position": 4,
+        "color": 10917369,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/dance"
+          }
+        }
+      }
+    },
+    {
+      "backed_projects_count": 0,
+      "color": "0x2752FF",
+      "category": {
+        "id": 7,
+        "name": "Design",
+        "slug": "design",
+        "position": 5,
+        "color": 2577151,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/design"
+          }
+        }
+      }
+    },
+    {
+      "backed_projects_count": 0,
+      "color": "0xFF9FD6",
+      "category": {
+        "id": 9,
+        "name": "Fashion",
+        "slug": "fashion",
+        "position": 6,
+        "color": 16752598,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/fashion"
+          }
+        }
+      }
+    },
+    {
+      "backed_projects_count": 0,
+      "color": "0xFF596E",
+      "category": {
+        "id": 11,
+        "name": "Film & Video",
+        "slug": "film & video",
+        "position": 7,
+        "color": 16734574,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/film%20&%20video"
+          }
+        }
+      }
+    },
+    {
+      "backed_projects_count": 0,
+      "color": "0xFF3642",
+      "category": {
+        "id": 10,
+        "name": "Food",
+        "slug": "food",
+        "position": 8,
+        "color": 16725570,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/food"
+          }
+        }
+      }
+    },
+    {
+      "backed_projects_count": 0,
+      "color": "0x00C9AB",
+      "category": {
+        "id": 12,
+        "name": "Games",
+        "slug": "games",
+        "position": 9,
+        "color": 51627,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/games"
+          }
+        }
+      }
+    },
+    {
+      "backed_projects_count": 0,
+      "color": "0x12BCEA",
+      "category": {
+        "id": 13,
+        "name": "Journalism",
+        "slug": "journalism",
+        "position": 10,
+        "color": 1228010,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/journalism"
+          }
+        }
+      }
+    },
+    {
+      "backed_projects_count": 0,
+      "color": "0xA5FFD3",
+      "category": {
+        "id": 14,
+        "name": "Music",
+        "slug": "music",
+        "position": 11,
+        "color": 10878931,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/music"
+          }
+        }
+      }
+    },
+    {
+      "backed_projects_count": 0,
+      "color": "0x00E3E5",
+      "category": {
+        "id": 15,
+        "name": "Photography",
+        "slug": "photography",
+        "position": 12,
+        "color": 58341,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/photography"
+          }
+        }
+      }
+    },
+    {
+      "backed_projects_count": 0,
+      "color": "0xE2DCD0",
+      "category": {
+        "id": 18,
+        "name": "Publishing",
+        "slug": "publishing",
+        "position": 13,
+        "color": 14867664,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/publishing"
+          }
+        }
+      }
+    },
+    {
+      "backed_projects_count": 0,
+      "color": "0x6396FC",
+      "category": {
+        "id": 16,
+        "name": "Technology",
+        "slug": "technology",
+        "position": 14,
+        "color": 6526716,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/technology"
+          }
+        }
+      }
+    },
+    {
+      "backed_projects_count": 0,
+      "color": "0xFF7D5F",
+      "category": {
+        "id": 17,
+        "name": "Theater",
+        "slug": "theater",
+        "position": 15,
+        "color": 16743775,
+        "urls": {
+          "web": {
+            "discover": "http://www.kickstarter.com/discover/categories/theater"
+          }
+        }
+      }
+    }
+  ],
+  "notify_of_backings": false,
+  "notify_of_updates": true,
+  "notify_of_follower": true,
+  "notify_of_friend_activity": true,
+  "notify_of_comments": true,
+  "notify_of_post_likes": true,
+  "notify_mobile_of_backings": true,
+  "notify_mobile_of_updates": true,
+  "notify_mobile_of_follower": true,
+  "notify_mobile_of_friend_activity": true,
+  "notify_mobile_of_comments": true,
+  "notify_mobile_of_post_likes": true,
+  "urls": {
+    "api": {
+      "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1491997037.8b4c5d574ee371827db2734cba8cdbfb1a9ba7d2",
+      "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1491997037.420297b076706023e4da7deb9c985337025135b2",
+      "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1491997037.b3b7d2c355e64e79a28c713a6ce30eb900b48569",
+      "self": "https://api.kickstarter.com/v1/users/self?signature=1491997037.476513416819886760cb83d6d0e2fbab01510b3a",
+      "user": "https://api.kickstarter.com/v1/users/456535557?signature=1491997037.8cb1915f6646dd9b7e6a276900f8fee386f7b233",
+      "created_projects": "https://api.kickstarter.com/v1/users/456535557/projects/created?signature=1491997038.10c0c2923754a9c0f03911c6c8254f458fb28b09"
+    },
+    "web": {
+      "user": "https://www.kickstarter.com/profile/456535557"
+    }
+  },
+  "is_registered": true,
+  "avatar": {
+    "thumb": "https://ksr-ugc.imgix.net/missing_user_avatar.png?w=40&h=40&fit=crop&v=&auto=format&q=92&s=8c0db61c92692000c2678b375fc31714",
+    "small": "https://ksr-ugc.imgix.net/missing_user_avatar.png?w=160&h=160&fit=crop&v=&auto=format&q=92&s=c40e6ddb23a144ee8beca514ec2d6e58",
+    "medium": "https://ksr-ugc.imgix.net/missing_user_avatar.png?w=160&h=160&fit=crop&v=&auto=format&q=92&s=c40e6ddb23a144ee8beca514ec2d6e58",
+    "large": "https://ksr-ugc.imgix.net/missing_user_avatar.png?w=220&h=220&fit=crop&v=&auto=format&q=92&s=26c2577122e164c9583a76d7b716838c"
+  },
+  "backed_projects": 0,
+  "join_date": "2016-12-15T08:18:25Z",
+  "biography": null,
+  "backed_projects_count": 0,
+  "created_projects_count": 0,
+  "member_projects_count": 0,
+  "unread_messages_count": 0,
+  "unanswered_surveys_count": 0,
+  "starred_projects_count": 0,
+  "updated_at": 1491286405,
+  "created_at": 1481789905
+}

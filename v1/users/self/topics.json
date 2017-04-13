@@ -755,7 +755,7 @@
       "id": 33385349
     },
   ],
-  "url": {
+  "urls": {
     "api": {
       "more_topics": "topics.json"
     }

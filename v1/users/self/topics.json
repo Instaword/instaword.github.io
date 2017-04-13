@@ -1,16 +1,104 @@
 {
   "topics": [
     {
-      "author": "phx191",
+      "author": {
+        "id": 540114680,
+        "name": "Andrew Bale",
+        "social": true,
+        "facebook_connected": true,
+        "ksr_live_token": "e0d068b4d2ba61b8fee23a0539d7b0c2a6d4370dca4face71d7d6048e8525b19",
+        "weekly_newsletter": false,
+        "happening_newsletter": false,
+        "promo_newsletter": false,
+        "games_newsletter": false,
+        "invent_newsletter": false,
+        "arts_culture_newsletter": false,
+        "send_newsletters": false,
+        "notify_of_backings": false,
+        "notify_of_updates": true,
+        "notify_of_follower": true,
+        "notify_of_friend_activity": true,
+        "notify_of_comments": true,
+        "notify_of_post_likes": true,
+        "notify_mobile_of_backings": true,
+        "notify_mobile_of_updates": true,
+        "notify_mobile_of_follower": true,
+        "notify_mobile_of_friend_activity": true,
+        "notify_mobile_of_comments": true,
+        "notify_mobile_of_post_likes": true,
+        "urls": {
+          "api": {
+            "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1492129345.a815417082a7d113a8cc2042dbfb95a2a2963d8c",
+            "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1492129345.44df9583f9e93d0e326c8945e1a714a81e0be2bd",
+            "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1492129345.244476c9fb0dbd6b1c16f84ef41caaaf98b5fbe4",
+            "self": "https://api.kickstarter.com/v1/users/self?signature=1492129345.08ebae0f48f99473c3932680b364299b25449254",
+            "user": "https://api.kickstarter.com/v1/users/540114680?signature=1492129345.a8e19c0ac43bdbad0c07c5de4dd7127f55806b3b"
+          },
+          "web": {
+            "user": "https://www.kickstarter.com/profile/540114680"
+          }
+        },
+        "is_registered": true,
+        "avatar": {
+          "thumb": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=40&h=40&fit=crop&v=1461446094&auto=format&q=92&s=b25edd8875b967b8eba703a79f03ed7a",
+          "small": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9",
+          "medium": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9"
+        }
+      },
+      "created_at": 1492042945,
+      "deleted_at": 0,
       "name": "Jobs/Professions English + pictures",
       "word_count": 50,
       "body": "Pictures of jobs and professions. Can be used for teaching English as a foreign language.",
-      "createdAt": 50000,
-      "deletedAt": 60000,
       "id": 33385379
     },
     {
-      "author": "phx191",
+     "author": {
+        "id": 540114680,
+        "name": "Andrew Bale",
+        "social": true,
+        "facebook_connected": true,
+        "ksr_live_token": "e0d068b4d2ba61b8fee23a0539d7b0c2a6d4370dca4face71d7d6048e8525b19",
+        "weekly_newsletter": false,
+        "happening_newsletter": false,
+        "promo_newsletter": false,
+        "games_newsletter": false,
+        "invent_newsletter": false,
+        "arts_culture_newsletter": false,
+        "send_newsletters": false,
+        "notify_of_backings": false,
+        "notify_of_updates": true,
+        "notify_of_follower": true,
+        "notify_of_friend_activity": true,
+        "notify_of_comments": true,
+        "notify_of_post_likes": true,
+        "notify_mobile_of_backings": true,
+        "notify_mobile_of_updates": true,
+        "notify_mobile_of_follower": true,
+        "notify_mobile_of_friend_activity": true,
+        "notify_mobile_of_comments": true,
+        "notify_mobile_of_post_likes": true,
+        "urls": {
+          "api": {
+            "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1492129345.a815417082a7d113a8cc2042dbfb95a2a2963d8c",
+            "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1492129345.44df9583f9e93d0e326c8945e1a714a81e0be2bd",
+            "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1492129345.244476c9fb0dbd6b1c16f84ef41caaaf98b5fbe4",
+            "self": "https://api.kickstarter.com/v1/users/self?signature=1492129345.08ebae0f48f99473c3932680b364299b25449254",
+            "user": "https://api.kickstarter.com/v1/users/540114680?signature=1492129345.a8e19c0ac43bdbad0c07c5de4dd7127f55806b3b"
+          },
+          "web": {
+            "user": "https://www.kickstarter.com/profile/540114680"
+          }
+        },
+        "is_registered": true,
+        "avatar": {
+          "thumb": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=40&h=40&fit=crop&v=1461446094&auto=format&q=92&s=b25edd8875b967b8eba703a79f03ed7a",
+          "small": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9",
+          "medium": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9"
+        }
+      },
+      "created_at": 1492042945,
+      "deleted_at": 0,
       "name": "Jobs/Professions English + pictures",
       "word_count": 50,
       "body": "Pictures of jobs and professions. Can be used for teaching English as a foreign language.",
@@ -19,7 +107,52 @@
       "id": 33385371
     },
     {
-      "author": "phx191",
+      "author": {
+        "id": 540114680,
+        "name": "Andrew Bale",
+        "social": true,
+        "facebook_connected": true,
+        "ksr_live_token": "e0d068b4d2ba61b8fee23a0539d7b0c2a6d4370dca4face71d7d6048e8525b19",
+        "weekly_newsletter": false,
+        "happening_newsletter": false,
+        "promo_newsletter": false,
+        "games_newsletter": false,
+        "invent_newsletter": false,
+        "arts_culture_newsletter": false,
+        "send_newsletters": false,
+        "notify_of_backings": false,
+        "notify_of_updates": true,
+        "notify_of_follower": true,
+        "notify_of_friend_activity": true,
+        "notify_of_comments": true,
+        "notify_of_post_likes": true,
+        "notify_mobile_of_backings": true,
+        "notify_mobile_of_updates": true,
+        "notify_mobile_of_follower": true,
+        "notify_mobile_of_friend_activity": true,
+        "notify_mobile_of_comments": true,
+        "notify_mobile_of_post_likes": true,
+        "urls": {
+          "api": {
+            "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1492129345.a815417082a7d113a8cc2042dbfb95a2a2963d8c",
+            "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1492129345.44df9583f9e93d0e326c8945e1a714a81e0be2bd",
+            "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1492129345.244476c9fb0dbd6b1c16f84ef41caaaf98b5fbe4",
+            "self": "https://api.kickstarter.com/v1/users/self?signature=1492129345.08ebae0f48f99473c3932680b364299b25449254",
+            "user": "https://api.kickstarter.com/v1/users/540114680?signature=1492129345.a8e19c0ac43bdbad0c07c5de4dd7127f55806b3b"
+          },
+          "web": {
+            "user": "https://www.kickstarter.com/profile/540114680"
+          }
+        },
+        "is_registered": true,
+        "avatar": {
+          "thumb": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=40&h=40&fit=crop&v=1461446094&auto=format&q=92&s=b25edd8875b967b8eba703a79f03ed7a",
+          "small": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9",
+          "medium": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9"
+        }
+      },
+      "created_at": 1492042945,
+      "deleted_at": 0,
       "name": "Jobs/Professions English + pictures",
       "word_count": 50,
       "body": "Pictures of jobs and professions. Can be used for teaching English as a foreign language.",
@@ -28,7 +161,52 @@
       "id": 33385372
     },
     {
-      "author": "phx191",
+      "author": {
+        "id": 540114680,
+        "name": "Andrew Bale",
+        "social": true,
+        "facebook_connected": true,
+        "ksr_live_token": "e0d068b4d2ba61b8fee23a0539d7b0c2a6d4370dca4face71d7d6048e8525b19",
+        "weekly_newsletter": false,
+        "happening_newsletter": false,
+        "promo_newsletter": false,
+        "games_newsletter": false,
+        "invent_newsletter": false,
+        "arts_culture_newsletter": false,
+        "send_newsletters": false,
+        "notify_of_backings": false,
+        "notify_of_updates": true,
+        "notify_of_follower": true,
+        "notify_of_friend_activity": true,
+        "notify_of_comments": true,
+        "notify_of_post_likes": true,
+        "notify_mobile_of_backings": true,
+        "notify_mobile_of_updates": true,
+        "notify_mobile_of_follower": true,
+        "notify_mobile_of_friend_activity": true,
+        "notify_mobile_of_comments": true,
+        "notify_mobile_of_post_likes": true,
+        "urls": {
+          "api": {
+            "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1492129345.a815417082a7d113a8cc2042dbfb95a2a2963d8c",
+            "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1492129345.44df9583f9e93d0e326c8945e1a714a81e0be2bd",
+            "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1492129345.244476c9fb0dbd6b1c16f84ef41caaaf98b5fbe4",
+            "self": "https://api.kickstarter.com/v1/users/self?signature=1492129345.08ebae0f48f99473c3932680b364299b25449254",
+            "user": "https://api.kickstarter.com/v1/users/540114680?signature=1492129345.a8e19c0ac43bdbad0c07c5de4dd7127f55806b3b"
+          },
+          "web": {
+            "user": "https://www.kickstarter.com/profile/540114680"
+          }
+        },
+        "is_registered": true,
+        "avatar": {
+          "thumb": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=40&h=40&fit=crop&v=1461446094&auto=format&q=92&s=b25edd8875b967b8eba703a79f03ed7a",
+          "small": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9",
+          "medium": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9"
+        }
+      },
+      "created_at": 1492042945,
+      "deleted_at": 0,
       "name": "Jobs/Professions English + pictures",
       "word_count": 50,
       "body": "Pictures of jobs and professions. Can be used for teaching English as a foreign language.",
@@ -37,7 +215,52 @@
       "id": 33385373
     },
     {
-      "author": "phx191",
+      "author": {
+        "id": 540114680,
+        "name": "Andrew Bale",
+        "social": true,
+        "facebook_connected": true,
+        "ksr_live_token": "e0d068b4d2ba61b8fee23a0539d7b0c2a6d4370dca4face71d7d6048e8525b19",
+        "weekly_newsletter": false,
+        "happening_newsletter": false,
+        "promo_newsletter": false,
+        "games_newsletter": false,
+        "invent_newsletter": false,
+        "arts_culture_newsletter": false,
+        "send_newsletters": false,
+        "notify_of_backings": false,
+        "notify_of_updates": true,
+        "notify_of_follower": true,
+        "notify_of_friend_activity": true,
+        "notify_of_comments": true,
+        "notify_of_post_likes": true,
+        "notify_mobile_of_backings": true,
+        "notify_mobile_of_updates": true,
+        "notify_mobile_of_follower": true,
+        "notify_mobile_of_friend_activity": true,
+        "notify_mobile_of_comments": true,
+        "notify_mobile_of_post_likes": true,
+        "urls": {
+          "api": {
+            "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1492129345.a815417082a7d113a8cc2042dbfb95a2a2963d8c",
+            "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1492129345.44df9583f9e93d0e326c8945e1a714a81e0be2bd",
+            "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1492129345.244476c9fb0dbd6b1c16f84ef41caaaf98b5fbe4",
+            "self": "https://api.kickstarter.com/v1/users/self?signature=1492129345.08ebae0f48f99473c3932680b364299b25449254",
+            "user": "https://api.kickstarter.com/v1/users/540114680?signature=1492129345.a8e19c0ac43bdbad0c07c5de4dd7127f55806b3b"
+          },
+          "web": {
+            "user": "https://www.kickstarter.com/profile/540114680"
+          }
+        },
+        "is_registered": true,
+        "avatar": {
+          "thumb": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=40&h=40&fit=crop&v=1461446094&auto=format&q=92&s=b25edd8875b967b8eba703a79f03ed7a",
+          "small": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9",
+          "medium": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9"
+        }
+      },
+      "created_at": 1492042945,
+      "deleted_at": 0,
       "name": "Jobs/Professions English + pictures",
       "word_count": 50,
       "body": "Pictures of jobs and professions. Can be used for teaching English as a foreign language.",
@@ -46,7 +269,52 @@
       "id": 33385374
     },
     {
-      "author": "phx191",
+      "author": {
+        "id": 540114680,
+        "name": "Andrew Bale",
+        "social": true,
+        "facebook_connected": true,
+        "ksr_live_token": "e0d068b4d2ba61b8fee23a0539d7b0c2a6d4370dca4face71d7d6048e8525b19",
+        "weekly_newsletter": false,
+        "happening_newsletter": false,
+        "promo_newsletter": false,
+        "games_newsletter": false,
+        "invent_newsletter": false,
+        "arts_culture_newsletter": false,
+        "send_newsletters": false,
+        "notify_of_backings": false,
+        "notify_of_updates": true,
+        "notify_of_follower": true,
+        "notify_of_friend_activity": true,
+        "notify_of_comments": true,
+        "notify_of_post_likes": true,
+        "notify_mobile_of_backings": true,
+        "notify_mobile_of_updates": true,
+        "notify_mobile_of_follower": true,
+        "notify_mobile_of_friend_activity": true,
+        "notify_mobile_of_comments": true,
+        "notify_mobile_of_post_likes": true,
+        "urls": {
+          "api": {
+            "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1492129345.a815417082a7d113a8cc2042dbfb95a2a2963d8c",
+            "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1492129345.44df9583f9e93d0e326c8945e1a714a81e0be2bd",
+            "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1492129345.244476c9fb0dbd6b1c16f84ef41caaaf98b5fbe4",
+            "self": "https://api.kickstarter.com/v1/users/self?signature=1492129345.08ebae0f48f99473c3932680b364299b25449254",
+            "user": "https://api.kickstarter.com/v1/users/540114680?signature=1492129345.a8e19c0ac43bdbad0c07c5de4dd7127f55806b3b"
+          },
+          "web": {
+            "user": "https://www.kickstarter.com/profile/540114680"
+          }
+        },
+        "is_registered": true,
+        "avatar": {
+          "thumb": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=40&h=40&fit=crop&v=1461446094&auto=format&q=92&s=b25edd8875b967b8eba703a79f03ed7a",
+          "small": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9",
+          "medium": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9"
+        }
+      },
+      "created_at": 1492042945,
+      "deleted_at": 0,
       "name": "Jobs/Professions English + pictures",
       "word_count": 50,
       "body": "Pictures of jobs and professions. Can be used for teaching English as a foreign language.",
@@ -55,7 +323,52 @@
       "id": 33385375
     },
     {
-      "author": "phx191",
+      "author": {
+        "id": 540114680,
+        "name": "Andrew Bale",
+        "social": true,
+        "facebook_connected": true,
+        "ksr_live_token": "e0d068b4d2ba61b8fee23a0539d7b0c2a6d4370dca4face71d7d6048e8525b19",
+        "weekly_newsletter": false,
+        "happening_newsletter": false,
+        "promo_newsletter": false,
+        "games_newsletter": false,
+        "invent_newsletter": false,
+        "arts_culture_newsletter": false,
+        "send_newsletters": false,
+        "notify_of_backings": false,
+        "notify_of_updates": true,
+        "notify_of_follower": true,
+        "notify_of_friend_activity": true,
+        "notify_of_comments": true,
+        "notify_of_post_likes": true,
+        "notify_mobile_of_backings": true,
+        "notify_mobile_of_updates": true,
+        "notify_mobile_of_follower": true,
+        "notify_mobile_of_friend_activity": true,
+        "notify_mobile_of_comments": true,
+        "notify_mobile_of_post_likes": true,
+        "urls": {
+          "api": {
+            "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1492129345.a815417082a7d113a8cc2042dbfb95a2a2963d8c",
+            "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1492129345.44df9583f9e93d0e326c8945e1a714a81e0be2bd",
+            "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1492129345.244476c9fb0dbd6b1c16f84ef41caaaf98b5fbe4",
+            "self": "https://api.kickstarter.com/v1/users/self?signature=1492129345.08ebae0f48f99473c3932680b364299b25449254",
+            "user": "https://api.kickstarter.com/v1/users/540114680?signature=1492129345.a8e19c0ac43bdbad0c07c5de4dd7127f55806b3b"
+          },
+          "web": {
+            "user": "https://www.kickstarter.com/profile/540114680"
+          }
+        },
+        "is_registered": true,
+        "avatar": {
+          "thumb": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=40&h=40&fit=crop&v=1461446094&auto=format&q=92&s=b25edd8875b967b8eba703a79f03ed7a",
+          "small": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9",
+          "medium": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9"
+        }
+      },
+      "created_at": 1492042945,
+      "deleted_at": 0,
       "name": "Jobs/Professions English + pictures",
       "word_count": 50,
       "body": "Pictures of jobs and professions. Can be used for teaching English as a foreign language.",
@@ -64,7 +377,52 @@
       "id": 33385376
     },
     {
-      "author": "phx191",
+      "author": {
+        "id": 540114680,
+        "name": "Andrew Bale",
+        "social": true,
+        "facebook_connected": true,
+        "ksr_live_token": "e0d068b4d2ba61b8fee23a0539d7b0c2a6d4370dca4face71d7d6048e8525b19",
+        "weekly_newsletter": false,
+        "happening_newsletter": false,
+        "promo_newsletter": false,
+        "games_newsletter": false,
+        "invent_newsletter": false,
+        "arts_culture_newsletter": false,
+        "send_newsletters": false,
+        "notify_of_backings": false,
+        "notify_of_updates": true,
+        "notify_of_follower": true,
+        "notify_of_friend_activity": true,
+        "notify_of_comments": true,
+        "notify_of_post_likes": true,
+        "notify_mobile_of_backings": true,
+        "notify_mobile_of_updates": true,
+        "notify_mobile_of_follower": true,
+        "notify_mobile_of_friend_activity": true,
+        "notify_mobile_of_comments": true,
+        "notify_mobile_of_post_likes": true,
+        "urls": {
+          "api": {
+            "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1492129345.a815417082a7d113a8cc2042dbfb95a2a2963d8c",
+            "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1492129345.44df9583f9e93d0e326c8945e1a714a81e0be2bd",
+            "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1492129345.244476c9fb0dbd6b1c16f84ef41caaaf98b5fbe4",
+            "self": "https://api.kickstarter.com/v1/users/self?signature=1492129345.08ebae0f48f99473c3932680b364299b25449254",
+            "user": "https://api.kickstarter.com/v1/users/540114680?signature=1492129345.a8e19c0ac43bdbad0c07c5de4dd7127f55806b3b"
+          },
+          "web": {
+            "user": "https://www.kickstarter.com/profile/540114680"
+          }
+        },
+        "is_registered": true,
+        "avatar": {
+          "thumb": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=40&h=40&fit=crop&v=1461446094&auto=format&q=92&s=b25edd8875b967b8eba703a79f03ed7a",
+          "small": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9",
+          "medium": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9"
+        }
+      },
+      "created_at": 1492042945,
+      "deleted_at": 0,
       "name": "Jobs/Professions English + pictures",
       "word_count": 50,
       "body": "Pictures of jobs and professions. Can be used for teaching English as a foreign language.",
@@ -73,7 +431,52 @@
       "id": 33385377
     },
     {
-      "author": "phx191",
+      "author": {
+        "id": 540114680,
+        "name": "Andrew Bale",
+        "social": true,
+        "facebook_connected": true,
+        "ksr_live_token": "e0d068b4d2ba61b8fee23a0539d7b0c2a6d4370dca4face71d7d6048e8525b19",
+        "weekly_newsletter": false,
+        "happening_newsletter": false,
+        "promo_newsletter": false,
+        "games_newsletter": false,
+        "invent_newsletter": false,
+        "arts_culture_newsletter": false,
+        "send_newsletters": false,
+        "notify_of_backings": false,
+        "notify_of_updates": true,
+        "notify_of_follower": true,
+        "notify_of_friend_activity": true,
+        "notify_of_comments": true,
+        "notify_of_post_likes": true,
+        "notify_mobile_of_backings": true,
+        "notify_mobile_of_updates": true,
+        "notify_mobile_of_follower": true,
+        "notify_mobile_of_friend_activity": true,
+        "notify_mobile_of_comments": true,
+        "notify_mobile_of_post_likes": true,
+        "urls": {
+          "api": {
+            "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1492129345.a815417082a7d113a8cc2042dbfb95a2a2963d8c",
+            "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1492129345.44df9583f9e93d0e326c8945e1a714a81e0be2bd",
+            "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1492129345.244476c9fb0dbd6b1c16f84ef41caaaf98b5fbe4",
+            "self": "https://api.kickstarter.com/v1/users/self?signature=1492129345.08ebae0f48f99473c3932680b364299b25449254",
+            "user": "https://api.kickstarter.com/v1/users/540114680?signature=1492129345.a8e19c0ac43bdbad0c07c5de4dd7127f55806b3b"
+          },
+          "web": {
+            "user": "https://www.kickstarter.com/profile/540114680"
+          }
+        },
+        "is_registered": true,
+        "avatar": {
+          "thumb": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=40&h=40&fit=crop&v=1461446094&auto=format&q=92&s=b25edd8875b967b8eba703a79f03ed7a",
+          "small": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9",
+          "medium": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9"
+        }
+      },
+      "created_at": 1492042945,
+      "deleted_at": 0,
       "name": "Jobs/Professions English + pictures",
       "word_count": 50,
       "body": "Pictures of jobs and professions. Can be used for teaching English as a foreign language.",
@@ -82,7 +485,52 @@
       "id": 33385378
     },
     {
-      "author": "phx191",
+      "author": {
+        "id": 540114680,
+        "name": "Andrew Bale",
+        "social": true,
+        "facebook_connected": true,
+        "ksr_live_token": "e0d068b4d2ba61b8fee23a0539d7b0c2a6d4370dca4face71d7d6048e8525b19",
+        "weekly_newsletter": false,
+        "happening_newsletter": false,
+        "promo_newsletter": false,
+        "games_newsletter": false,
+        "invent_newsletter": false,
+        "arts_culture_newsletter": false,
+        "send_newsletters": false,
+        "notify_of_backings": false,
+        "notify_of_updates": true,
+        "notify_of_follower": true,
+        "notify_of_friend_activity": true,
+        "notify_of_comments": true,
+        "notify_of_post_likes": true,
+        "notify_mobile_of_backings": true,
+        "notify_mobile_of_updates": true,
+        "notify_mobile_of_follower": true,
+        "notify_mobile_of_friend_activity": true,
+        "notify_mobile_of_comments": true,
+        "notify_mobile_of_post_likes": true,
+        "urls": {
+          "api": {
+            "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1492129345.a815417082a7d113a8cc2042dbfb95a2a2963d8c",
+            "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1492129345.44df9583f9e93d0e326c8945e1a714a81e0be2bd",
+            "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1492129345.244476c9fb0dbd6b1c16f84ef41caaaf98b5fbe4",
+            "self": "https://api.kickstarter.com/v1/users/self?signature=1492129345.08ebae0f48f99473c3932680b364299b25449254",
+            "user": "https://api.kickstarter.com/v1/users/540114680?signature=1492129345.a8e19c0ac43bdbad0c07c5de4dd7127f55806b3b"
+          },
+          "web": {
+            "user": "https://www.kickstarter.com/profile/540114680"
+          }
+        },
+        "is_registered": true,
+        "avatar": {
+          "thumb": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=40&h=40&fit=crop&v=1461446094&auto=format&q=92&s=b25edd8875b967b8eba703a79f03ed7a",
+          "small": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9",
+          "medium": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9"
+        }
+      },
+      "created_at": 1492042945,
+      "deleted_at": 0,
       "name": "Jobs/Professions English + pictures",
       "word_count": 50,
       "body": "Pictures of jobs and professions. Can be used for teaching English as a foreign language.",
@@ -91,7 +539,52 @@
       "id": 33385391
     },
     {
-      "author": "phx191",
+      "author": {
+        "id": 540114680,
+        "name": "Andrew Bale",
+        "social": true,
+        "facebook_connected": true,
+        "ksr_live_token": "e0d068b4d2ba61b8fee23a0539d7b0c2a6d4370dca4face71d7d6048e8525b19",
+        "weekly_newsletter": false,
+        "happening_newsletter": false,
+        "promo_newsletter": false,
+        "games_newsletter": false,
+        "invent_newsletter": false,
+        "arts_culture_newsletter": false,
+        "send_newsletters": false,
+        "notify_of_backings": false,
+        "notify_of_updates": true,
+        "notify_of_follower": true,
+        "notify_of_friend_activity": true,
+        "notify_of_comments": true,
+        "notify_of_post_likes": true,
+        "notify_mobile_of_backings": true,
+        "notify_mobile_of_updates": true,
+        "notify_mobile_of_follower": true,
+        "notify_mobile_of_friend_activity": true,
+        "notify_mobile_of_comments": true,
+        "notify_mobile_of_post_likes": true,
+        "urls": {
+          "api": {
+            "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1492129345.a815417082a7d113a8cc2042dbfb95a2a2963d8c",
+            "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1492129345.44df9583f9e93d0e326c8945e1a714a81e0be2bd",
+            "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1492129345.244476c9fb0dbd6b1c16f84ef41caaaf98b5fbe4",
+            "self": "https://api.kickstarter.com/v1/users/self?signature=1492129345.08ebae0f48f99473c3932680b364299b25449254",
+            "user": "https://api.kickstarter.com/v1/users/540114680?signature=1492129345.a8e19c0ac43bdbad0c07c5de4dd7127f55806b3b"
+          },
+          "web": {
+            "user": "https://www.kickstarter.com/profile/540114680"
+          }
+        },
+        "is_registered": true,
+        "avatar": {
+          "thumb": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=40&h=40&fit=crop&v=1461446094&auto=format&q=92&s=b25edd8875b967b8eba703a79f03ed7a",
+          "small": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9",
+          "medium": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9"
+        }
+      },
+      "created_at": 1492042945,
+      "deleted_at": 0,
       "name": "Jobs/Professions English + pictures",
       "word_count": 50,
       "body": "Pictures of jobs and professions. Can be used for teaching English as a foreign language.",
@@ -100,7 +593,52 @@
       "id": 33385319
     },
     {
-      "author": "phx191",
+      "author": {
+        "id": 540114680,
+        "name": "Andrew Bale",
+        "social": true,
+        "facebook_connected": true,
+        "ksr_live_token": "e0d068b4d2ba61b8fee23a0539d7b0c2a6d4370dca4face71d7d6048e8525b19",
+        "weekly_newsletter": false,
+        "happening_newsletter": false,
+        "promo_newsletter": false,
+        "games_newsletter": false,
+        "invent_newsletter": false,
+        "arts_culture_newsletter": false,
+        "send_newsletters": false,
+        "notify_of_backings": false,
+        "notify_of_updates": true,
+        "notify_of_follower": true,
+        "notify_of_friend_activity": true,
+        "notify_of_comments": true,
+        "notify_of_post_likes": true,
+        "notify_mobile_of_backings": true,
+        "notify_mobile_of_updates": true,
+        "notify_mobile_of_follower": true,
+        "notify_mobile_of_friend_activity": true,
+        "notify_mobile_of_comments": true,
+        "notify_mobile_of_post_likes": true,
+        "urls": {
+          "api": {
+            "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1492129345.a815417082a7d113a8cc2042dbfb95a2a2963d8c",
+            "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1492129345.44df9583f9e93d0e326c8945e1a714a81e0be2bd",
+            "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1492129345.244476c9fb0dbd6b1c16f84ef41caaaf98b5fbe4",
+            "self": "https://api.kickstarter.com/v1/users/self?signature=1492129345.08ebae0f48f99473c3932680b364299b25449254",
+            "user": "https://api.kickstarter.com/v1/users/540114680?signature=1492129345.a8e19c0ac43bdbad0c07c5de4dd7127f55806b3b"
+          },
+          "web": {
+            "user": "https://www.kickstarter.com/profile/540114680"
+          }
+        },
+        "is_registered": true,
+        "avatar": {
+          "thumb": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=40&h=40&fit=crop&v=1461446094&auto=format&q=92&s=b25edd8875b967b8eba703a79f03ed7a",
+          "small": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9",
+          "medium": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9"
+        }
+      },
+      "created_at": 1492042945,
+      "deleted_at": 0,
       "name": "Jobs/Professions English + pictures",
       "word_count": 50,
       "body": "Pictures of jobs and professions. Can be used for teaching English as a foreign language.",
@@ -109,7 +647,52 @@
       "id": 33385329
     },
     {
-      "author": "phx191",
+      "author": {
+        "id": 540114680,
+        "name": "Andrew Bale",
+        "social": true,
+        "facebook_connected": true,
+        "ksr_live_token": "e0d068b4d2ba61b8fee23a0539d7b0c2a6d4370dca4face71d7d6048e8525b19",
+        "weekly_newsletter": false,
+        "happening_newsletter": false,
+        "promo_newsletter": false,
+        "games_newsletter": false,
+        "invent_newsletter": false,
+        "arts_culture_newsletter": false,
+        "send_newsletters": false,
+        "notify_of_backings": false,
+        "notify_of_updates": true,
+        "notify_of_follower": true,
+        "notify_of_friend_activity": true,
+        "notify_of_comments": true,
+        "notify_of_post_likes": true,
+        "notify_mobile_of_backings": true,
+        "notify_mobile_of_updates": true,
+        "notify_mobile_of_follower": true,
+        "notify_mobile_of_friend_activity": true,
+        "notify_mobile_of_comments": true,
+        "notify_mobile_of_post_likes": true,
+        "urls": {
+          "api": {
+            "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1492129345.a815417082a7d113a8cc2042dbfb95a2a2963d8c",
+            "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1492129345.44df9583f9e93d0e326c8945e1a714a81e0be2bd",
+            "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1492129345.244476c9fb0dbd6b1c16f84ef41caaaf98b5fbe4",
+            "self": "https://api.kickstarter.com/v1/users/self?signature=1492129345.08ebae0f48f99473c3932680b364299b25449254",
+            "user": "https://api.kickstarter.com/v1/users/540114680?signature=1492129345.a8e19c0ac43bdbad0c07c5de4dd7127f55806b3b"
+          },
+          "web": {
+            "user": "https://www.kickstarter.com/profile/540114680"
+          }
+        },
+        "is_registered": true,
+        "avatar": {
+          "thumb": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=40&h=40&fit=crop&v=1461446094&auto=format&q=92&s=b25edd8875b967b8eba703a79f03ed7a",
+          "small": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9",
+          "medium": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9"
+        }
+      },
+      "created_at": 1492042945,
+      "deleted_at": 0,
       "name": "Jobs/Professions English + pictures",
       "word_count": 50,
       "body": "Pictures of jobs and professions. Can be used for teaching English as a foreign language.",
@@ -118,7 +701,52 @@
       "id": 33385339
     },
     {
-      "author": "phx191",
+      "author": {
+        "id": 540114680,
+        "name": "Andrew Bale",
+        "social": true,
+        "facebook_connected": true,
+        "ksr_live_token": "e0d068b4d2ba61b8fee23a0539d7b0c2a6d4370dca4face71d7d6048e8525b19",
+        "weekly_newsletter": false,
+        "happening_newsletter": false,
+        "promo_newsletter": false,
+        "games_newsletter": false,
+        "invent_newsletter": false,
+        "arts_culture_newsletter": false,
+        "send_newsletters": false,
+        "notify_of_backings": false,
+        "notify_of_updates": true,
+        "notify_of_follower": true,
+        "notify_of_friend_activity": true,
+        "notify_of_comments": true,
+        "notify_of_post_likes": true,
+        "notify_mobile_of_backings": true,
+        "notify_mobile_of_updates": true,
+        "notify_mobile_of_follower": true,
+        "notify_mobile_of_friend_activity": true,
+        "notify_mobile_of_comments": true,
+        "notify_mobile_of_post_likes": true,
+        "urls": {
+          "api": {
+            "starred_projects": "https://api.kickstarter.com/v1/users/self/projects/starred?signature=1492129345.a815417082a7d113a8cc2042dbfb95a2a2963d8c",
+            "backed_projects": "https://api.kickstarter.com/v1/users/self/projects/backed?signature=1492129345.44df9583f9e93d0e326c8945e1a714a81e0be2bd",
+            "notifications": "https://api.kickstarter.com/v1/users/self/notifications?signature=1492129345.244476c9fb0dbd6b1c16f84ef41caaaf98b5fbe4",
+            "self": "https://api.kickstarter.com/v1/users/self?signature=1492129345.08ebae0f48f99473c3932680b364299b25449254",
+            "user": "https://api.kickstarter.com/v1/users/540114680?signature=1492129345.a8e19c0ac43bdbad0c07c5de4dd7127f55806b3b"
+          },
+          "web": {
+            "user": "https://www.kickstarter.com/profile/540114680"
+          }
+        },
+        "is_registered": true,
+        "avatar": {
+          "thumb": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=40&h=40&fit=crop&v=1461446094&auto=format&q=92&s=b25edd8875b967b8eba703a79f03ed7a",
+          "small": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9",
+          "medium": "https://ksr-ugc.imgix.net/assets/007/244/149/4a536e9df5f83c78a1024dcc61c45da0_original.jpg?w=160&h=160&fit=crop&v=1461446094&auto=format&q=92&s=eb6fadc69329be3bb18a0558102e60b9"
+        }
+      },
+      "created_at": 1492042945,
+      "deleted_at": 0,
       "name": "Jobs/Professions English + pictures",
       "word_count": 50,
       "body": "Pictures of jobs and professions. Can be used for teaching English as a foreign language.",
